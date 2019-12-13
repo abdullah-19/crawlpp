@@ -1,6 +1,8 @@
 {
   "files.associations": {
     "xstring": "cpp",
-    "xstddef": "cpp"
+    "xstddef": "cpp",
+    "locale": "cpp",
+    "regex": "cpp"
   }
 }
